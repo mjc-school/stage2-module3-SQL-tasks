@@ -11,7 +11,6 @@ INSERT INTO Student (name, birthday, groupnumber) VALUES ('Mike', '2000-01-09', 
 INSERT INTO Student (name, birthday, groupnumber) VALUES ('Max', '2000-01-09', 5);
 INSERT INTO Student (name, birthday, groupnumber) VALUES ('Karon', '2000-01-09', 5);
 
-
 INSERT INTO subject (name, description, grade) VALUES ('Art', 'Art', 1);
 INSERT INTO subject (name, description, grade) VALUES ('Music', 'Music', 1);
 INSERT INTO subject (name, description, grade) VALUES ('Geography', 'Geography', 2);
